@@ -19,3 +19,8 @@ In this repository, I will upload all the tasks that I perform while my Python D
 <div style="text-align:right">
     <h3 style="font-weight:900;margin:0">Tasks by RAJAT KAPOOR ❤ </h3>
 </div>
+
+![My Screenshot](https://github.com/Rajatkapoor01/OCTANET/blob/main/Screenshot%202024-06-05%20063156.png)
+
+
+![My Screenshot](https://github.com/Rajatkapoor01/OCTANET/blob/main/Screenshot%202024-06-05%20063229.png)
