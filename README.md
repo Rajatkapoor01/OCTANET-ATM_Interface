@@ -1,5 +1,5 @@
 # OCTANET
-# Python Development Internship Tasks at Octanet Pvt. Ltd.
+# Python Development Internship Tasks-1 at Octanet Pvt. Ltd.
 In this repository, I will upload all the tasks that I perform while my Python Development Internship at TechOctanet Pvt. Ltd.
 
 
